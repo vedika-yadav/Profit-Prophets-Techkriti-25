@@ -64,40 +64,49 @@ The triple-bottom-line assessment evaluates the reuse model beyond commercial vi
 ## Repository Structure
 
 ```text
-.
+Profit-Prophets-Techkriti-25/
+│
 ├── README.md
-├── Strategy Sprint Abstract - The Profit Prophets.pdf
-├── The Profit Prophets Presentation Deck Delivery.pdf
-├── The Profit Prophets Presentation Deck ITC.pdf
-├── Retail Logistics Forecast.xlsx
-├── Synergy Analysis.pdf
-├── Plan of Action.pdf
-├── Implementation Roadmap.pdf
-└── assets/
-    └── images/
-        ├── reliance-retail-revenue-share.png
-        ├── logistics-capability-comparison.png
-        ├── acquisition-cost-benefit-analysis.png
-        ├── monte-carlo-simulation.png
-        ├── reliance-implementation-roadmap.png
-        ├── packaging-waste-composition.png
-        ├── reuse-business-model-flow.png
-        ├── collection-channel-model.png
-        └── triple-bottom-line-assessment.png
+├── LICENSE
+│
+├── assets/
+│   └── images/
+│       ├── acquisition-cost-benefit-analysis.png
+│       ├── collection-channel-model.png
+│       ├── implementation-roadmap.png
+│       ├── logistics-capability-comparison.png
+│       ├── monte-carlo-simulation-allcargo.png
+│       ├── monte-carlo-simulation-bluedart.png
+│       ├── monte-carlo-simulation-delhivery.png
+│       ├── packaging-waste-composition.png
+│       ├── reliance-retail-revenue-share.png
+│       ├── reuse-business-model-flow.png
+│       └── triple-bottom-line-assessment.png
+│
+├── case-study-1-logistics-acquisition/
+│   ├── deliverables/
+│   │   ├── strategy-sprint-logistics-acquisition-deck.pdf
+│   │   └── strategy-sprint-abstract.pdf
+│   │
+│   └── analysis/
+│       ├── retail-logistics-forecast.xlsx
+│       ├── synergy-analysis-comparison.pdf
+│       ├── acquisition-implementation-roadmap.pdf
+│       └── project-plan-and-methodology.pdf
+│
+└── case-study-2-reusable-packaging/
+    └── deliverables/
+        └── strategy-sprint-reusable-packaging-deck.pdf
 ```
 
 
-## Repository Contents
+## Final Deliverables
 
 | File | Description |
 | --- | --- |
-| `Strategy Sprint Abstract - The Profit Prophets.pdf` | Abstract for the Reliance Retail logistics case, covering the company context, logistics benchmarks, merger feasibility, sustainability and regulatory considerations, financial analysis, and implementation roadmap. |
-| `The Profit Prophets Presentation Deck Delivery.pdf` | Comprehensive presentation deck for the Reliance Retail delivery/logistics case. It compares Delhivery, Blue Dart, and Allcargo Gati, evaluates risks, uses financial and Monte Carlo analysis, and recommends Delhivery as the most beneficial acquisition target. |
-| `Retail Logistics Forecast.xlsx` | Supporting quantitative workbook for the logistics case. It models synergy revenue, market share revenue, customer retention revenue, and final revenue synergies for Delhivery, Blue Dart, and Gati. |
-| `Synergy Analysis.pdf` | Focused synergy comparison of Delhivery and Xpressbees across logistics capabilities, technology, service coverage, reverse logistics, rapid commerce, international delivery, and sustainability practices. |
-| `Plan of Action.pdf` | Research and evaluation framework for the logistics case, including SWOT profiling, comparative analysis, strategic fit assessment, acquisition cost review, and strategic options. |
-| `Implementation Roadmap.pdf` | Phased acquisition roadmap covering pre-acquisition alignment, deal finalization, post-acquisition integration, and operational optimization. |
-| `The Profit Prophets Presentation Deck ITC.pdf` | Presentation deck for the ITC reuse-of-rigid-plastic case. It proposes a reuse-based packaging model with collection, cleaning and quality checks, traceability, redistribution, commercial feasibility, and triple-bottom-line considerations. |
+| `strategy-sprint-abstract.pdf` | Abstract for the Reliance Retail logistics case. |
+| `strategy-sprint-logistics-acquisition-deck.pdf` | Comprehensive presentation deck for the Reliance Retail logistics case. It compares Delhivery, Blue Dart and Allcargo Gati. |
+| `strategy-sprint-reusable-packaging-deck.pdf` | Presentation deck for the ITC reuse-of-rigid-plastic case. |
 
 ## Team
 
