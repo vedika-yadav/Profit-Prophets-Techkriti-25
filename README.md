@@ -18,11 +18,15 @@ The acquisition cost-benefit analysis connects the strategic shortlist to financ
 
 The Monte Carlo simulation adds a risk perspective to the valuation work. It shows how uncertainty in stock price outcomes, volatility, confidence intervals and threshold probabilities affects the attractiveness of each acquisition option.
 
-![Monte Carlo simulation output](assets/images/monte-carlo-simulation.png)
+![Monte Carlo simulation output](assets/images/monte-carlo-simulation-delhivery.png)
+
+![Monte Carlo simulation output](assets/images/monte-carlo-simulation-bluedart.png)
+
+![Monte Carlo simulation output](assets/images/monte-carlo-simulation-allcargo.png)
 
 The implementation roadmap translates the recommendation into an execution sequence. It moves from strategic goal-setting and due diligence to deal structuring, deal execution and post-acquisition integration.
 
-![Reliance logistics implementation roadmap](assets/images/reliance-implementation-roadmap.png)
+![Reliance logistics implementation roadmap](assets/images/implementation-roadmap.png)
 
 ### Quantitative Model
 
