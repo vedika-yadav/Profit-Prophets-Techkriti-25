@@ -67,7 +67,6 @@ The triple-bottom-line assessment evaluates the reuse model beyond commercial vi
 Profit-Prophets-Techkriti-25/
 │
 ├── README.md
-├── LICENSE
 │
 ├── assets/
 │   └── images/
