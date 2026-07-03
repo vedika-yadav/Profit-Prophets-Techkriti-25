@@ -8,11 +8,11 @@ The revenue share view frames the logistics challenge for Reliance Retail. Ajio,
 
 ![Reliance Retail revenue share by business segment](assets/images/reliance-retail-revenue-share.png)
 
-The logistics capability comparison benchmarks potential partners across the capabilities most relevant to Reliance Retail: pin-code reach, D2C and B2B services, rapid commerce, freight, temperature-controlled logistics, high-value shipments, AI route optimization, WMS, geocoding APIs and reverse logistics.
+The logistics capability comparison benchmarks potential partners across the capabilities most relevant to Reliance Retail: pincode reach, D2C and B2B services, rapid commerce, freight, temperature controlled logistics, high value shipments, AI route optimization, WMS, geocoding APIs and reverse logistics.
 
 ![Logistics partner capability comparison](assets/images/logistics-capability-comparison.png)
 
-The acquisition cost-benefit analysis connects the strategic shortlist to financial feasibility. It compares purchase price, transaction cost, integration cost, revenue synergies, cost synergies and market expansion potential across the evaluated logistics companies.
+The acquisition cost benefit analysis connects the strategic shortlist to financial feasibility. It compares purchase price, transaction cost, integration cost, revenue synergies, cost synergies and market expansion potential across the evaluated logistics companies.
 
 ![Acquisition cost and benefit analysis](assets/images/acquisition-cost-benefit-analysis.png)
 
@@ -24,7 +24,7 @@ The Monte Carlo simulation adds a risk perspective to the valuation work. It sho
 
 ![Monte Carlo simulation output](assets/images/monte-carlo-simulation-allcargo.png)
 
-The implementation roadmap translates the recommendation into an execution sequence. It moves from strategic goal-setting and due diligence to deal structuring, deal execution and post-acquisition integration.
+The implementation roadmap translates the recommendation into an execution sequence. It moves from strategic goal setting and due diligence to deal structuring, deal execution and post acquisition integration.
 
 ![Reliance logistics implementation roadmap](assets/images/implementation-roadmap.png)
 
@@ -34,14 +34,14 @@ The workbook `Retail Logistics Forecast.xlsx` supports the logistics recommendat
 
 | Sheet | Role |
 | --- | --- |
-| `Synergy R` | Estimates synergy revenue from Reliance Retail revenue, logistics company revenue, and synergy growth assumptions. |
-| `Market Share R` | Models market size, initial market share, expected share increase, and resulting market share revenue. |
-| `Customer Retention R` | Estimates retention-driven revenue using customer base, increased retention rate, and ARPU. |
-| `Revenue Synergies` | Consolidates synergy revenue, market share revenue, and customer retention revenue into final revenue synergy estimates. |
+| `Synergy R` | Estimates synergy revenue from Reliance Retail revenue, logistics company revenue and synergy growth assumptions. |
+| `Market Share R` | Models market size, initial market share, expected share increase and resulting market share revenue. |
+| `Customer Retention R` | Estimates retention driven revenue using customer base, increased retention rate and ARPU. |
+| `Revenue Synergies` | Consolidates synergy revenue, market share revenue and customer retention revenue into final revenue synergy estimates. |
 
 ### Recommendation
 
-The delivery deck concludes that **acquiring Delhivery Pvt. Ltd. would be most beneficial for Reliance Retail**, based on the combined synergy analysis, cost-benefit analysis, financial analysis, and operational fit.
+The delivery deck concludes that **acquiring Delhivery Pvt. Ltd. would be most beneficial for Reliance Retail**, based on the combined synergy analysis, cost-benefit analysis, financial analysis and operational fit.
 
 ### ITC Rigid Plastic Reuse Case
 
@@ -49,7 +49,7 @@ The packaging waste composition chart establishes the scale of the problem and p
 
 ![Packaging waste composition](assets/images/packaging-waste-composition.png)
 
-The reuse business model flow summarizes the proposed operating system. Packaging is collected, cleaned and quality-checked, tracked through digital identifiers, refilled and redistributed through retail and online channels.
+The reuse business model flow summarizes the proposed operating system. Packaging is collected, cleaned and quality checked, tracked through digital identifiers, refilled and redistributed through retail and online channels.
 
 ![Reuse business model flow](assets/images/reuse-business-model-flow.png)
 
@@ -57,7 +57,7 @@ The collection channel model shows how reverse logistics can be built through mu
 
 ![Collection channel model](assets/images/collection-channel-model.png)
 
-The triple-bottom-line assessment evaluates the reuse model beyond commercial viability. It captures the economic, social and environmental trade-offs involved in shifting from single-use packaging to a reusable packaging ecosystem.
+The triple-bottom-line assessment evaluates the reuse model beyond commercial viability. It captures the economic, social and environmental trade offs involved in shifting from single use packaging to a reusable packaging ecosystem.
 
 ![Triple bottom line assessment](assets/images/triple-bottom-line-assessment.png)
 
